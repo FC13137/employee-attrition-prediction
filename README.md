@@ -7,8 +7,7 @@ A machine learning project for predicting employee attrition using various class
 This project implements multiple machine learning models to predict employee attrition (whether an employee will leave the company) based on various employee attributes and work-related features.
 
 **Student**: Chenzi Fang (ID: 2036451)  
-**Course**: INT303 Assignment 2  
-**Institution**: XJTLU
+**Course**: INT303
 
 ## 🎯 Objective
 
