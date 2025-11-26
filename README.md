@@ -106,13 +106,3 @@ imbalanced-learn  # for RandomOverSampler (if used)
 - The final submission uses Gradient Boosting predictions
 - PCA analysis shows that 25 components capture sufficient variance
 
-## 📄 License
-
-This project is for educational purposes (INT303 Assignment 2).
-
-## 👤 Author
-
-**Chenzi Fang**  
-Student ID: 2036451  
-XJTLU
-
