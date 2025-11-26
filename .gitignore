@@ -1,0 +1,83 @@
+# Data files (usually too large and should not be uploaded)
+A2-data/
+*.csv
+# Allow Excel files in Diagram folder
+!Diagram/*.xlsx
+*.xls
+
+# Model files
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+*.model
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Documents (PDFs, Word docs - usually too large or personal)
+# Allow images in Diagram folder
+!Diagram/*.png
+!Diagram/*.jpg
+!Diagram/*.jpeg
+*.pdf
+*.docx
+*.doc
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
+
+# Submission files (if generated)
+submission.csv
+output/
+results/
+
+# Temporary files
+*.tmp
+*.temp
+~$*
+
