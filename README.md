@@ -71,9 +71,6 @@ Models are evaluated using:
 │   ├── train.csv
 │   ├── test.csv
 │   └── sample_submission.csv
-├── Diagram/                      # Project diagrams
-│   ├── Framework.drawio
-│   └── Framwork.drawio.png
 └── README.md                     # This file
 ```
 
